@@ -1,0 +1,50 @@
+HTML Tag Dictionary
+
+<a>: A tag used to turn the selected text into a hyperlink to the selected website.
+
+	Attributes: href 
+	Example: <a>https://www.amazon.ca</a>
+
+<hl>: A tag used to turn the selected text into a header, boldfacing and enlarging the font.
+
+	Attributes: None
+	Example: <hl>Amazon is Cool</hl>
+
+<h2>: A tag used to turn the selected text into a header, boldfacing and enlarging the font (smaller than "h1").
+
+	Attributes: None
+	Example: <h2>Why  Amazon is Cool</h2>
+
+<img>: A tag used to display an image (must be stored in the same folder as document containing code).
+
+	Attributes: src
+	Example: <img src="goosebumps.jpg"></img>
+
+<li>: When applied to a text, this tag adds an indent and a bullet point (or whatever you choose; see "ol" and "ul" tags) at the beginning of said text
+
+	Attributes: None
+	Example: <li>One</li>
+			 <li>Two</li>
+			 <li>Three</li>
+
+<ol>: Tag added to "li" to organize the selected list with consecutive numbers. 
+
+	Attributes: None
+	Example: <ol> 
+				 <li>One</li>
+				 <li>Two</li>
+				 <li>Three</li>
+             </ol>
+<p>: A tag used to turn the selected text into a paragraph; it is seperated from any other text above or below. 
+
+	Attributes: None
+	Example: <p>Chili peppers make me sweat LOTS! Goodbye freshly-washed shirt...</p>
+	
+<ul>: Tag added to "li" to organize the selected list with bullet points. 
+
+	Attributes: None
+	Example: <ul> 
+				 <li>One</li>
+				 <li>Two</li>
+				 <li>Three</li>
+             </ul>
