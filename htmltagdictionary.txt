@@ -1,9 +1,31 @@
 HTML Tag Dictionary
 
+<!DOCTYPE>: A tag used to select a version of HTML
+
+	Attributes: html (selects most recent version)
+	Example: <!DOCTYPE>
+			 <body>
+		     <p>Hey There Dude!</p>
+		     </body>
+	
 <a>: A tag used to turn the selected text into a hyperlink to the selected website.
 
 	Attributes: href 
 	Example: <a>https://www.amazon.ca</a>
+	
+<body>: A tag that contains the content of your website
+
+	Attrbutes: None
+	Example: <body>
+		     <p>Hey There Dude!</p>
+		     </body>
+			 
+<head>: A tag used to insert things for you browser to think about when looking at your webpage
+
+	Attributes: None
+	Example: <head>
+	         <title>First Website</title>
+			 </head>
 
 <hl>: A tag used to turn the selected text into a header, boldfacing and enlarging the font.
 
@@ -14,6 +36,15 @@ HTML Tag Dictionary
 
 	Attributes: None
 	Example: <h2>Why  Amazon is Cool</h2>
+	
+<html>: A tag that marks the beginning and end of your html code
+
+	Attributes: None
+	Example: <html>
+	         <head>
+	         <title>First Website</title>
+			 </head>
+			 </html>
 
 <img>: A tag used to display an image (must be stored in the same folder as document containing code).
 
@@ -35,10 +66,16 @@ HTML Tag Dictionary
 				 <li>Two</li>
 				 <li>Three</li>
              </ol>
+			 
 <p>: A tag used to turn the selected text into a paragraph; it is seperated from any other text above or below. 
 
 	Attributes: None
 	Example: <p>Chili peppers make me sweat LOTS! Goodbye freshly-washed shirt...</p>
+	
+<title>: A tag used to indicate that the selected text will be shown on the tab of the website
+
+	Attributes: None
+	Example: <title>First Website</title>
 	
 <ul>: Tag added to "li" to organize the selected list with bullet points. 
 
